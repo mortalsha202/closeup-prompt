@@ -1,0 +1,27 @@
+=== SUBJECT DESCRIPTION (x) ===
+Young woman with long, voluminous wavy hair in warm light brown with honey-caramel highlights, parted in the center and falling past her shoulders. Pale gray-green eyes with soft, defined brows. Fair, smooth skin with a natural warm rosy blush on the cheeks. Small straight nose, soft peachy-pink glossy lips in a gentle closed-mouth smile. Slim fingers with a natural nude manicure and thin gold rings. Small gold earring at the ear. Head tilted, cheek resting on her hand, calm relaxed expression looking at camera.
+
+Outfit: oversized cream t-shirt with red "Hot Wheels" graphic, "Built for Speed" text, small globe logo and black piping on the sleeves; dark charcoal ruffled skirt; tan suede knee-high boots.
+
+Setting: sitting on a stone step in front of a weathered, peeling red-brown wooden wall, warm natural sunlight, soft film-like grain, phone-photo look.
+
+
+=== GENERATION PROMPT ===
+Take x = this image person
+
+Take [x]'s image as single source of truth and generate 8 images simultaneously with 3:4 ratio based on
+extreme closeup shot of [x]'s face.
+extreme closeup shot of [x]'s forehead.
+extreme closeup shot of [x]'s eye.
+extreme closeup shot of [x]'s nose.
+extreme closeup shot of [x]'s ear.
+extreme closeup shot of [x]'s lip.
+extreme closeup shot of [x]'s hair.
+extreme closeup shot of [x]'s hand & fingers.
+& make sure you should always give me extreme closeup shot without changing anything about image.
+
+
+=== FULL COMBINED PROMPT (copy-paste ready) ===
+[x] = young woman with long wavy light brown hair with honey-caramel highlights, center part, pale gray-green eyes, fair skin with rosy blush, small straight nose, soft peachy-pink lips with a gentle smile, slim fingers with nude nails and thin gold rings, small gold earring, warm natural sunlight, soft film grain.
+
+Take [x]'s image as single source of truth and generate 8 images simultaneously with 3:4 ratio based on: extreme closeup shot of [x]'s face. extreme closeup shot of [x]'s forehead. extreme closeup shot of [x]'s eye. extreme closeup shot of [x]'s nose. extreme closeup shot of [x]'s ear. extreme closeup shot of [x]'s lip. extreme closeup shot of [x]'s hair. extreme closeup shot of [x]'s hand & fingers. Always give extreme closeup shots without changing anything about the image.
